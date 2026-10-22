@@ -1,3 +1,5 @@
+// Copyright (c) 2026 OrangeTeasy. Licensed under the MIT License.
+
 using System;
 using System.Runtime.InteropServices;
 using SolidWorks.Interop.sldworks;
