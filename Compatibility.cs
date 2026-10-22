@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright (c) 2026 OrangeTeasy. Licensed under the MIT License.
+
+using System;
 using System.Globalization;
 using System.IO;
 using System.Text.RegularExpressions;
