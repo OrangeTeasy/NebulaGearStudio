@@ -1,0 +1,33 @@
+# Build artifacts
+*.exe
+*.zip
+*.dll
+
+# Staging / test outputs
+build-stage/
+basic-tests/
+gear-tests/
+library-tests/
+polyhedron-tests/
+v3-tests/
+test-output/
+
+# Temp files
+~$*
+*.tmp
+*.log
+
+# UI screenshots / previews (keep girl-* package images)
+v3*-*.png
+v31-*.png
+v32-*.png
+v39-*.png
+*-check.png
+*-check-*.png
+*-preview.png
+*-preview-*.png
+CosmicMainForm-*.png
+GearDialog-*.png
+HelicalGearDialog-*.png
+MainForm-*.png
+WormSetDialog-*.png
