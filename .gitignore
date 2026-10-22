@@ -31,3 +31,8 @@ GearDialog-*.png
 HelicalGearDialog-*.png
 MainForm-*.png
 WormSetDialog-*.png
+
+# Large binary masters (distribute via GitHub Release)
+*.SLDPRT
+*.PRTDOT
+
